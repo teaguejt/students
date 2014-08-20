@@ -1,2 +1,1 @@
-Josh Willis
-000315983
+Hi, I'm Josh Willis. I am a Master's student in Computer Science under Dr. Birdwell and I am working on software for neuromorpic devices (hardware designed specifically for neural networks). I've been interested in learning about data analytics/mining/science for a while, but I haven't had the opportunity to take a course in school covering the material yet so I'm looking forward to learning and experiencing what we are going to cover in this course. 
