@@ -1,0 +1,1 @@
+My name is Bryan White.  I am a business analytics masters candidate with interest in becoming a more adaptable and well rounded analyst.  Also I enjoy the civilization series, weight lifting, and cooking.  
