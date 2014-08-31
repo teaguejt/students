@@ -4,18 +4,17 @@ Students and Teams
 Introduce yourself via a `USERNAME.md` file, and submit via pull request.
 
 ===================================
-Informations about forming teams
+Information on forming teams
 ===================================
 As you’ll see in the Team Policy Statement below, you
-will have assigned roles in your teams (coordina-
-tor, recorder, checker, etc.) that rotate among the
+will have assigned roles in your teams (coordinator, recorder, checker, etc.) that rotate among the
 members. You may be inclined to ignore these role
 assignments and just do the work in any way that
 comes to mind, or maybe one team member will
 actually do the coordinating all semester no matter who is supposed
 to be doing it for a given
 assignment. That’s a mistake. We strongly advise you
-to take the roles seriously—your work will go more
+to take the roles seriously --— your work will go more
 smoothly and turn out better if you do. Also, the
 roles each involve different skills, all of which you’ll
 need to function effectively as professionals. Now
@@ -37,15 +36,12 @@ anything in, go over it in detail and make sure
 you’re ready for that examination.
 
 A common mistake is for teams to sit around a table
-and solve all problems together. What usually hap-
-pens is that someone on the team is faster than the
-others, and that one will begin every problem so-
-lution. If you happen to be in the slower category,
+and solve all problems together. What usually happens is that someone on the team is faster than the
+others, and that one will begin every problem solution. If you happen to be in the slower category,
 you may have to figure out how to approach such
 problems for the first time on the tests, which is
 not when you want to do it. A better approach is
-for every team member to outline the solutions in-
-dividually, and then get together to work out the
+for every team member to outline the solutions individually, and then get together to work out the
 details.
 
 
@@ -61,7 +57,7 @@ the work in front of the class.
 * Agree on a common meeting time and what each member should have
 done before the meeting (readings, taking the first cut at some or
 all of the assigned work, etc.)  There will be at least two classes
-per project reserved exclusively for this purpouse, but don't expect
+per project reserved exclusively for this purpose, but don't expect
 that to be sufficient time for your joint work. Therefore,
 
 * Do the required individual preparation. That means editing and
@@ -73,9 +69,9 @@ remind them of when and where they will meet and what they are
 supposed to do.
 
 * Meet and work. Coordinator keeps everyone on task and makes sure
-everyone is involved, recorder pre- pares the final solution and
+everyone is involved, recorder prepares the final solution and
 creates the pull request to submit it, monitor checks to makes sure
-everyone understands both the solu tion and the strategy used to get
+everyone understands both the solution and the strategy used to get
 it, and checker double-checks it before it is handed in. Agree on
 next the meeting time and roles for next assignment. For teams of
 three, the same person should cover the monitor and checker roles.
@@ -104,8 +100,7 @@ Agreement handout.
 
 
 ### Adapted from:
-Oakley, B., R.M. Felder, R. Brent, and I. Elhajj, "Turning Stu-
-dent Groups into Effective Teams," The Journal of Student Centered
+Oakley, B., R.M. Felder, R. Brent, and I. Elhajj, "Turning Student Groups into Effective Teams," The Journal of Student Centered
 Learning, Vol. 2, No. 1, 2004, pp. 9-34, www.ncsu.edu/felder-public/
 Papers/Oakley-paper(JSCL).pdf
 
