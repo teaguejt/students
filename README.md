@@ -2,6 +2,10 @@ Students and Teams
 ========
 
 Introduce yourself via a `USERNAME.md` file, and submit via pull request.
+Please provide at least one sentence on your background and one sentence on your interests. For example,
+> I am Audris Mockus and I am a professor at the EECS department. I have worked at ATT Bell Labs and 
+> and other industry labs for over 20 years. I like coding and data analysis and would like to share my 
+> passion with you teaching this course. 
 
 ===================================
 Information on forming teams
@@ -104,5 +108,4 @@ Oakley, B., R.M. Felder, R. Brent, and I. Elhajj, "Turning Student Groups into E
 Learning, Vol. 2, No. 1, 2004, pp. 9-34, www.ncsu.edu/felder-public/
 Papers/Oakley-paper(JSCL).pdf
 
-###Read at least the appendix on coping with Hichikers and Couch
-Potatoes on teams.
+###Read at least the appendix on coping with Hichikers and Couch Potatoes on teams.
