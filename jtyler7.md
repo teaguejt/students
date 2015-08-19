@@ -1,0 +1,1 @@
+My name is Jessica Tyler, and I am a second-year student in the M.S. in Business Analytics program her at UT. This summer, I was a data science fellow at a political data firm in Washington, D.C. I am interested in machine learning, and look forward to building my proficiency in Python and learning more about natural language processing.
