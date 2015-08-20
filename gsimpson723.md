@@ -1,0 +1,1 @@
+My name is Greg Simpson and I am a master's student in CS. I have experience with game development, native app development, and backend web design. My main research interest involves data visualization. 
