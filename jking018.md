@@ -1,0 +1,1 @@
+Hi, my name is Joe King and I am a 2nd year masters student in business analytics. I received my undergraduate degree in mathemmatics and  CS/operations research from Montana. I enjoy customer analytics and I am currently a customer data analyst for Coca Cola.I hope at some point to scrape customer review data and see if I find anything insightful. 
