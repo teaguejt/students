@@ -1,0 +1,1 @@
+I am Nathan Wilder, a graduate student in the Computer Science Masters program.  I completed my undergraduate work at the American University of Central Asia in Bishkek, Kyrgyzstan.  Prior to that I worked in the IT industry at different jobs as a network engineer and sys admin with a bit of coding thrown in from time to time.
