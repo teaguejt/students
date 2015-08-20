@@ -1,0 +1,1 @@
+My name is James Curtis Hughes, however I go by Curtis.  I am a senior undergraduate in Computer Science. I worked as an intern for Scripps Network during the summer. There I gained experience with software development and cloud computing. I have some experience with Python, but should be able to research the areas that are unfamiliar. 
