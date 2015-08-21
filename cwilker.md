@@ -1,0 +1,1 @@
+Hello, my name is Curtis Wilkerson and I am a second year business analytics masters student. In undergrad I majored in statistics and economics. I am also very interested in Mathematics and Computer Science. This class is very exciting to me because it merges a couple of those fields of study. I am especially interested in learning about the data collection aspect of this class.
