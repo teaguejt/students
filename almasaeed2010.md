@@ -1,0 +1,1 @@
+My name is Abdullah Almsaeed. I am a senior computer science undergraduate student. My main experience is with fullstack web development. That is, development of server-side scripts using PHP and MySQL and front-end user interfaces using HTML, CSS and JavaScript. I also have experience with open source projects and [Github](https://github.com/almasaeed2010/AdminLTE).
