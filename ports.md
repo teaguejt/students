@@ -1,3 +1,14 @@
+###Port numbers for each student for the ssh connection
+For example, cwilker7 will use the following setup of .ssh/config (or putty session)
+```
+host da2
+ hostname da2.eecs.utk.edu
+ user cwilker7
+ port 9005
+ LocalForward 8888 127.0.0.1:8888 
+```
+
+```
 audris use port 9001
 aalmsaee use port 9002
 aklibisz use port 9003
@@ -39,3 +50,4 @@ tjones87 use port 9038
 tyoung31 use port 9039
 yalkhrij use port 9040
 yma28 use port 9041
+```
